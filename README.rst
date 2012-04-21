@@ -7,7 +7,7 @@ of view.
 
 Dev experience
 ==============
-
+some code::
  $ # hack hack hack
  $ git commit . -m 'my awesome commits'
  $ git push buildbot master
