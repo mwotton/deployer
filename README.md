@@ -27,9 +27,10 @@ Dev experience
     $  # all good!
 
 # less sure about this stuff, open to comment
- $ prod_deploy abcd1234
- $ # check - oh shit, we used the wrong creds! Abort, abort
- $ prod_rollback
+
+    $ prod_deploy abcd1234
+    $ # check - oh shit, we used the wrong creds! Abort, abort
+    $ prod_rollback
  
 Implementation notes
 ====================
